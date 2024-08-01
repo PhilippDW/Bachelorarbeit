@@ -1,0 +1,996 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------Search and Select 0.01 Ricin----------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_10_M2_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 216, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_16_M3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 107, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_1_M0_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 27, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_200_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 65, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_200_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 83, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_200_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 44, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_2_M2_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 224, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_3_M0_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 96, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_3_M0_JA_R3_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 259, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_4_M1_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 98, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_592_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 111, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_592_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 113, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_5952_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 98, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_5_M2_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 97, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_611_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 7, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_611_2__03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 17, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_611_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 10, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_6_M0_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 204, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_6_M0_JA_R2_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 371, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_7_M1_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 162, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_829_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 74, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_829_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 71, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_829_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 42, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_8_M1_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 147, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_9_M4_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 76, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_9_M4_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 206, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_9_M4_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 236, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_GCH4_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 192, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_GCH4_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 116, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_GCH4_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 209, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_GCH4_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 175, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_GCH4_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 621, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_GCH4_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 475, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_GCH4_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 119, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_GCH4_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 199, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_GCH4_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 311, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_TMVCH1_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 115, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_TMVCH1_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 158, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_TMVCH1_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 225, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_TMVCH1_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 107, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_TMVCH1_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 253, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_TMVCH1_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 241, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_TMVCH1_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 144, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_TMVCH1_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 543, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_TMVCH1_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 102, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_Zanz_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 126, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_Zanz_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 200, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_Zanz_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 167, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_Zanz_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 388, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_Zanz_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 173, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_Zanz_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 120, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_Zanz_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 152, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_Zanz_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 424, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\Search and select\0.01\009-PeptideIndexer-out\Rcom_Zanz_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 238, Decoy: 0
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------FDR-Group 0.01 Ricin -------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_10_M2_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 287, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_16_M3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 131, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_1_M0_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 47, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_200_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 80, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_200_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 112, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_200_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 59, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_2_M2_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 309, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_3_M0_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 150, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_3_M0_JA_R3_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 311, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_4_M1_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 162, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_592_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 152, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_592_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 160, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_5952_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 128, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_5_M2_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 142, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_611_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 10, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_611_2__03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 24, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_611_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 13, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_6_M0_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 282, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_6_M0_JA_R2_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 524, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_7_M1_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 221, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_829_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 88, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_829_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 88, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_829_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 53, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_8_M1_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 238, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_9_M4_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 134, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_9_M4_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 311, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_9_M4_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 342, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_GCH4_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 239, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_GCH4_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 140, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_GCH4_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 313, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_GCH4_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 236, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_GCH4_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 784, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_GCH4_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 677, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_GCH4_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 154, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_GCH4_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 262, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_GCH4_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 378, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_TMVCH1_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 151, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_TMVCH1_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 189, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_TMVCH1_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 281, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_TMVCH1_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 131, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_TMVCH1_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 309, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_TMVCH1_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 308, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_TMVCH1_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 188, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_TMVCH1_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 678, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_TMVCH1_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 124, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_Zanz_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 3
+  Peptide Hits - Target: 154, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_Zanz_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 256, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_Zanz_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 226, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_Zanz_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 531, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_Zanz_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 218, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_Zanz_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 146, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_Zanz_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 204, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_Zanz_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 584, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\FDR-Group\0.01\009-FalseDiscoveryRate-out\Rcom_Zanz_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 307, Decoy: 0
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------SNS 0.01 Ricin -------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_10_M2_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 96, Decoy: 71
+  Peptide Hits - Target: 347, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_16_M3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 92, Decoy: 64
+  Peptide Hits - Target: 174, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_1_M0_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 80, Decoy: 25
+  Peptide Hits - Target: 54, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_200_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 84, Decoy: 37
+  Peptide Hits - Target: 94, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_200_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 36
+  Peptide Hits - Target: 125, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_200_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 81, Decoy: 37
+  Peptide Hits - Target: 76, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_2_M2_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 94, Decoy: 69
+  Peptide Hits - Target: 355, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_3_M0_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 94, Decoy: 69
+  Peptide Hits - Target: 184, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_3_M0_JA_R3_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 99, Decoy: 72
+  Peptide Hits - Target: 415, Decoy: 5
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_4_M1_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 94, Decoy: 62
+  Peptide Hits - Target: 206, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_592_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 84, Decoy: 49
+  Peptide Hits - Target: 190, Decoy: 4
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_592_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 81, Decoy: 50
+  Peptide Hits - Target: 191, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_5952_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 85, Decoy: 52
+  Peptide Hits - Target: 151, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_5_M2_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 101, Decoy: 83
+  Peptide Hits - Target: 187, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_611_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 53, Decoy: 33
+  Peptide Hits - Target: 11, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_611_2__03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 81, Decoy: 45
+  Peptide Hits - Target: 30, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_611_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 60, Decoy: 38
+  Peptide Hits - Target: 15, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_6_M0_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 97, Decoy: 77
+  Peptide Hits - Target: 360, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_6_M0_JA_R2_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 96, Decoy: 76
+  Peptide Hits - Target: 658, Decoy: 6
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_7_M1_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 97, Decoy: 70
+  Peptide Hits - Target: 267, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_829_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 81, Decoy: 42
+  Peptide Hits - Target: 97, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_829_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 82, Decoy: 47
+  Peptide Hits - Target: 102, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_829_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 76, Decoy: 37
+  Peptide Hits - Target: 57, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_8_M1_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 95, Decoy: 60
+  Peptide Hits - Target: 278, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_9_M4_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 95, Decoy: 61
+  Peptide Hits - Target: 158, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_9_M4_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 94, Decoy: 68
+  Peptide Hits - Target: 370, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_9_M4_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 96, Decoy: 61
+  Peptide Hits - Target: 409, Decoy: 4
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_GCH4_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 73
+  Peptide Hits - Target: 309, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_GCH4_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 89, Decoy: 62
+  Peptide Hits - Target: 164, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_GCH4_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 94, Decoy: 65
+  Peptide Hits - Target: 410, Decoy: 6
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_GCH4_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 66
+  Peptide Hits - Target: 315, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_GCH4_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 93, Decoy: 65
+  Peptide Hits - Target: 905, Decoy: 10
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_GCH4_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 97, Decoy: 74
+  Peptide Hits - Target: 853, Decoy: 9
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_GCH4_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 87, Decoy: 49
+  Peptide Hits - Target: 185, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_GCH4_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 75
+  Peptide Hits - Target: 354, Decoy: 4
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_GCH4_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 98, Decoy: 87
+  Peptide Hits - Target: 468, Decoy: 5
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_TMVCH1_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 52
+  Peptide Hits - Target: 196, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_TMVCH1_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 94, Decoy: 73
+  Peptide Hits - Target: 240, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_TMVCH1_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 98, Decoy: 74
+  Peptide Hits - Target: 346, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_TMVCH1_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 92, Decoy: 72
+  Peptide Hits - Target: 155, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_TMVCH1_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 92, Decoy: 75
+  Peptide Hits - Target: 399, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_TMVCH1_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 95, Decoy: 66
+  Peptide Hits - Target: 412, Decoy: 5
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_TMVCH1_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 89, Decoy: 60
+  Peptide Hits - Target: 228, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_TMVCH1_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 94, Decoy: 79
+  Peptide Hits - Target: 799, Decoy: 11
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_TMVCH1_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 84, Decoy: 63
+  Peptide Hits - Target: 155, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_Zanz_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 86, Decoy: 62
+  Peptide Hits - Target: 180, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_Zanz_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 58
+  Peptide Hits - Target: 322, Decoy: 4
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_Zanz_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 85, Decoy: 60
+  Peptide Hits - Target: 322, Decoy: 4
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_Zanz_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 70
+  Peptide Hits - Target: 671, Decoy: 6
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_Zanz_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 67
+  Peptide Hits - Target: 261, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_Zanz_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 86, Decoy: 48
+  Peptide Hits - Target: 172, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_Zanz_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 59
+  Peptide Hits - Target: 251, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_Zanz_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 95, Decoy: 69
+  Peptide Hits - Target: 705, Decoy: 8
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.01 nwq\010-FalseDiscoveryRate-out\Rcom_Zanz_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 58
+  Peptide Hits - Target: 396, Decoy: 5
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------ Search and Select 0.05 Ricin---------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_10_M2_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 239, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_16_M3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 116, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_1_M0_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 30, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_200_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 70, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_200_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 95, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_200_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 51, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_2_M2_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 252, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_3_M0_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 115, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_3_M0_JA_R3_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 276, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_4_M1_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 117, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_592_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 126, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_592_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 130, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_5952_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 105, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_5_M2_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 111, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_611_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 8, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_611_2__03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 20, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_611_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 10, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_6_M0_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 229, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_6_M0_JA_R2_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 424, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_7_M1_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 181, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_829_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 83, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_829_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 80, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_829_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 45, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_8_M1_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 172, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_9_M4_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 96, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_9_M4_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 231, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_9_M4_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 270, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_GCH4_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 205, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_GCH4_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 122, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_GCH4_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 247, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_GCH4_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 197, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_GCH4_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 697, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_GCH4_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 548, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_GCH4_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 131, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_GCH4_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 214, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_GCH4_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 330, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_TMVCH1_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 134, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_TMVCH1_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 173, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_TMVCH1_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 240, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_TMVCH1_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 120, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_TMVCH1_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 262, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_TMVCH1_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 263, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_TMVCH1_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 162, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_TMVCH1_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 595, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_TMVCH1_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 111, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_Zanz_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 140, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_Zanz_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 230, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_Zanz_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 188, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_Zanz_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 435, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_Zanz_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 182, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_Zanz_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 130, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_Zanz_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 170, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_Zanz_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 483, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\Search_and_Select\Ricin_0.05\Rcom_Zanz_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 260, Decoy: 0
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------- FDR-Group 0.05 Ricin ------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_10_M2_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 287, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_16_M3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 131, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_1_M0_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 47, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_200_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 80, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_200_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 112, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_200_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 59, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_2_M2_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 309, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_3_M0_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 150, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_3_M0_JA_R3_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 311, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_4_M1_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 162, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_592_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 152, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_592_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 160, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_5952_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 128, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_5_M2_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 142, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_611_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 10, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_611_2__03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 24, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_611_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 13, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_6_M0_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 282, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_6_M0_JA_R2_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 524, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_7_M1_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 221, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_829_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 88, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_829_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 88, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_829_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 53, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_8_M1_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 238, Decoy: 2
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_9_M4_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 134, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_9_M4_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 311, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_9_M4_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 342, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_GCH4_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 239, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_GCH4_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 140, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_GCH4_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 313, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_GCH4_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 236, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_GCH4_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 784, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_GCH4_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 677, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_GCH4_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 154, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_GCH4_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 262, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_GCH4_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 378, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_TMVCH1_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 7
+  Peptide Hits - Target: 151, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_TMVCH1_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 189, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_TMVCH1_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 281, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_TMVCH1_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 131, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_TMVCH1_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 309, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_TMVCH1_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 308, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_TMVCH1_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 188, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_TMVCH1_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 678, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_TMVCH1_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 124, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_Zanz_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 3
+  Peptide Hits - Target: 154, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_Zanz_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 256, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_Zanz_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 226, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_Zanz_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 531, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_Zanz_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 218, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_Zanz_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 0
+  Peptide Hits - Target: 146, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_Zanz_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 204, Decoy: 0
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_Zanz_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 584, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor_git\FDR-Group\Ricin_0.05\Rcom_Zanz_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 11, Decoy: 6
+  Peptide Hits - Target: 307, Decoy: 0
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------- SNS 0.05 Ricin ------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_10_M2_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 96, Decoy: 71
+  Peptide Hits - Target: 385, Decoy: 20
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_16_M3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 92, Decoy: 64
+  Peptide Hits - Target: 187, Decoy: 13
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_1_M0_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 80, Decoy: 25
+  Peptide Hits - Target: 59, Decoy: 4
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_200_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 84, Decoy: 37
+  Peptide Hits - Target: 115, Decoy: 7
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_200_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 36
+  Peptide Hits - Target: 139, Decoy: 7
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_200_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 81, Decoy: 37
+  Peptide Hits - Target: 81, Decoy: 5
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_2_M2_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 94, Decoy: 69
+  Peptide Hits - Target: 412, Decoy: 21
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_3_M0_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 94, Decoy: 69
+  Peptide Hits - Target: 200, Decoy: 11
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_3_M0_JA_R3_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 99, Decoy: 72
+  Peptide Hits - Target: 464, Decoy: 25
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_4_M1_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 94, Decoy: 62
+  Peptide Hits - Target: 222, Decoy: 11
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_592_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 84, Decoy: 49
+  Peptide Hits - Target: 200, Decoy: 11
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_592_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 81, Decoy: 50
+  Peptide Hits - Target: 197, Decoy: 11
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_5952_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 85, Decoy: 52
+  Peptide Hits - Target: 164, Decoy: 9
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_5_M2_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 101, Decoy: 83
+  Peptide Hits - Target: 205, Decoy: 10
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_611_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 53, Decoy: 33
+  Peptide Hits - Target: 12, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_611_2__03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 81, Decoy: 45
+  Peptide Hits - Target: 33, Decoy: 3
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_611_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 60, Decoy: 38
+  Peptide Hits - Target: 15, Decoy: 1
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_6_M0_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 97, Decoy: 77
+  Peptide Hits - Target: 395, Decoy: 19
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_6_M0_JA_R2_B_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 96, Decoy: 76
+  Peptide Hits - Target: 719, Decoy: 36
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_7_M1_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 97, Decoy: 70
+  Peptide Hits - Target: 313, Decoy: 16
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_829_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 81, Decoy: 42
+  Peptide Hits - Target: 103, Decoy: 4
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_829_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 82, Decoy: 47
+  Peptide Hits - Target: 108, Decoy: 5
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_829_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 76, Decoy: 37
+  Peptide Hits - Target: 58, Decoy: 4
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_8_M1_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 95, Decoy: 60
+  Peptide Hits - Target: 339, Decoy: 18
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_9_M4_AM_R1_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 95, Decoy: 61
+  Peptide Hits - Target: 185, Decoy: 9
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_9_M4_JA_R2_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 94, Decoy: 68
+  Peptide Hits - Target: 423, Decoy: 21
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_9_M4_JA_R3_7Mar16_Samwise_15-08-55.idXML
+  Protein Hits - Target: 96, Decoy: 61
+  Peptide Hits - Target: 473, Decoy: 24
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_GCH4_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 73
+  Peptide Hits - Target: 331, Decoy: 21
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_GCH4_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 89, Decoy: 62
+  Peptide Hits - Target: 181, Decoy: 10
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_GCH4_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 94, Decoy: 65
+  Peptide Hits - Target: 452, Decoy: 23
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_GCH4_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 66
+  Peptide Hits - Target: 340, Decoy: 18
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_GCH4_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 93, Decoy: 65
+  Peptide Hits - Target: 968, Decoy: 50
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_GCH4_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 97, Decoy: 74
+  Peptide Hits - Target: 912, Decoy: 47
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_GCH4_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 87, Decoy: 49
+  Peptide Hits - Target: 209, Decoy: 9
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_GCH4_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 75
+  Peptide Hits - Target: 373, Decoy: 18
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_GCH4_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 98, Decoy: 87
+  Peptide Hits - Target: 486, Decoy: 24
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_TMVCH1_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 52
+  Peptide Hits - Target: 210, Decoy: 13
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_TMVCH1_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 94, Decoy: 73
+  Peptide Hits - Target: 269, Decoy: 13
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_TMVCH1_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 98, Decoy: 74
+  Peptide Hits - Target: 360, Decoy: 15
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_TMVCH1_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 92, Decoy: 72
+  Peptide Hits - Target: 162, Decoy: 4
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_TMVCH1_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 92, Decoy: 75
+  Peptide Hits - Target: 425, Decoy: 23
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_TMVCH1_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 95, Decoy: 66
+  Peptide Hits - Target: 444, Decoy: 24
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_TMVCH1_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 89, Decoy: 60
+  Peptide Hits - Target: 246, Decoy: 11
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_TMVCH1_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 94, Decoy: 79
+  Peptide Hits - Target: 834, Decoy: 42
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_TMVCH1_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 84, Decoy: 63
+  Peptide Hits - Target: 179, Decoy: 9
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_Zanz_1_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 86, Decoy: 62
+  Peptide Hits - Target: 205, Decoy: 11
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_Zanz_1_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 58
+  Peptide Hits - Target: 357, Decoy: 18
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_Zanz_1_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 85, Decoy: 60
+  Peptide Hits - Target: 365, Decoy: 18
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_Zanz_2_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 91, Decoy: 70
+  Peptide Hits - Target: 733, Decoy: 38
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_Zanz_2_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 67
+  Peptide Hits - Target: 285, Decoy: 15
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_Zanz_2_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 86, Decoy: 48
+  Peptide Hits - Target: 190, Decoy: 9
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_Zanz_3_1_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 59
+  Peptide Hits - Target: 276, Decoy: 15
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_Zanz_3_2_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 95, Decoy: 69
+  Peptide Hits - Target: 769, Decoy: 40
+Datei: C:\Users\pwang\OneDrive\Desktop\Bachelor\SNS\0.05_new\010-FalseDiscoveryRate-out\Rcom_Zanz_3_3_03Jun16_Samwise_16-03-32.idXML
+  Protein Hits - Target: 90, Decoy: 58
+  Peptide Hits - Target: 441, Decoy: 21

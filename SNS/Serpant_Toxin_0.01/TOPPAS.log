@@ -1,0 +1,12 @@
+
+DecoyDatabase started. Processing ...
+
+Warning: Only one FASTA input file was provided, which might not contain contaminants. You probably want to have them! Just add the contaminant file to the input file list 'in'.
+
+
+Error: The required parameter 'Neighbor_Search:out_neighbor' was not given or is empty!
+
+
+DecoyDatabase failed!
+
+

@@ -1,0 +1,879 @@
+
+DecoyDatabase started. Processing ...
+
+Warning: Only one FASTA input file was provided, which might not contain contaminants. You probably want to have them! Just add the contaminant file to the input file list 'in'.
+
+
+DecoyDatabase: Warning, identifier 'tr|V8PJ30|V8PJ30_OPHHA' occurs more than once!
+
+
+DecoyDatabase took 10:06 m (wall), 10:04 m (CPU), 1.88 s (system), 10:02 m (user); Peak Memory Usage: 246 MB.
+
+
+<DecoyDatabase: Warning, identifier 'tr|V8PJ30|V8PJ30_OPHHA' occurs more than once!> occurred 1208395 times
+
+
+DecoyDatabase finished!
+
+Output file 'C:\Users\pwang\TOPPAS_out\005-DecoyDatabase-Neighbor_Searchout_neighbor\Serpant_Toxin.fasta' written.
+
+MSGFPlusAdapter started. Processing ...
+
+
+No database index found! Creating index while holding a lock ...
+
+
+ ... done
+
+
+Running MSGFPlus search...
+
+
+missedCleavages has a negative value. Assuming unlimited and setting it to 1000.
+
+
+Using prefix decoy string 'DECOY_'
+Info: using 'Trypsin/P' as enzyme (obtained from idXML) for digestion.
+Peptide identification engine: MS-GF+
+
+
+Enzyme: Trypsin/P
+Info: using 'full' as enzyme specificity (obtained from idXML) for digestion.
+
+
+Building trie ... done (0s)
+Compressing trie to BFS format ...
+
+
+ done (0s)
+
+
+Mapping 73280 peptides to ? (unknown number of) proteins.
+Searching with up to 3 ambiguous amino acid(s) and 0 mismatch(es)!
+
+
+Merge took: 0.01 s (wall), 0.03 s (CPU), 0.03 s (system), 0.00 s (user)
+Memory usage (Aho-Corasick): 222 MB (working set delta), 0 MB (peak working set delta)
+
+
+Aho-Corasick done:
+  found 210927 hits for 73280 of 73280 peptides.
+Peptide hits passing enzyme filter: 210927
+     ... rejected by enzyme filter: 50171
+
+
+-----------------------------------
+Peptide statistics
+
+  unmatched                : 0 (0 %)
+  target/decoy:
+    match to target DB only: 36093 (49 %)
+    match to decoy DB only : 35960 (49 %)
+    match to both          : 1227 (1 %)
+
+  mapping to proteins:
+    no match (to 0 protein)         : 0
+    unique match (to 1 protein)     : 43551
+    non-unique match (to >1 protein): 29729
+
+
+-----------------------------------
+Protein statistics
+
+  total proteins searched: 2428216
+  matched proteins       : 20665 (20665 new)
+  matched target proteins: 10113 (48 %)
+  matched decoy proteins : 10552 (51 %)
+  orphaned proteins      : 0 (all removed)
+-----------------------------------
+
+
+MSGFPlusAdapter took 37:56 m (wall), 42.91 s (CPU), 5.27 s (system), 37.64 s (user); Peak Memory Usage: 2899 MB.
+
+
+MSGFPlusAdapter started. Processing ...
+
+Running MSGFPlus search...
+
+
+missedCleavages has a negative value. Assuming unlimited and setting it to 1000.
+
+
+Using prefix decoy string 'DECOY_'
+Info: using 'Trypsin/P' as enzyme (obtained from idXML) for digestion.
+Peptide identification engine: MS-GF+
+
+
+Enzyme: Trypsin/P
+Info: using 'full' as enzyme specificity (obtained from idXML) for digestion.
+
+
+Building trie ... done (0s)
+Compressing trie to BFS format ...
+
+
+ done (0s)
+
+
+Mapping 81307 peptides to ? (unknown number of) proteins.
+Searching with up to 3 ambiguous amino acid(s) and 0 mismatch(es)!
+
+
+Merge took: 0.01 s (wall), 0.08 s (CPU), 0.05 s (system), 0.03 s (user)
+Memory usage (Aho-Corasick): 272 MB (working set delta), 0 MB (peak working set delta)
+
+
+Aho-Corasick done:
+  found 218783 hits for 81307 of 81307 peptides.
+Peptide hits passing enzyme filter: 218783
+     ... rejected by enzyme filter: 27453
+
+
+-----------------------------------
+Peptide statistics
+
+  unmatched                : 0 (0 %)
+  target/decoy:
+    match to target DB only: 40055 (49 %)
+    match to decoy DB only : 40536 (49 %)
+    match to both          : 716 (0 %)
+
+  mapping to proteins:
+    no match (to 0 protein)         : 0
+    unique match (to 1 protein)     : 49209
+    non-unique match (to >1 protein): 32098
+
+
+-----------------------------------
+Protein statistics
+
+  total proteins searched: 2428216
+  matched proteins       : 32285 (32285 new)
+  matched target proteins: 16179 (50 %)
+  matched decoy proteins : 16106 (49 %)
+  orphaned proteins      : 0 (all removed)
+-----------------------------------
+
+
+MSGFPlusAdapter took 28:14 m (wall), 48.14 s (CPU), 5.89 s (system), 42.25 s (user); Peak Memory Usage: 3479 MB.
+
+
+MSGFPlusAdapter started. Processing ...
+
+Running MSGFPlus search...
+
+
+missedCleavages has a negative value. Assuming unlimited and setting it to 1000.
+
+
+Using prefix decoy string 'DECOY_'
+Info: using 'Trypsin/P' as enzyme (obtained from idXML) for digestion.
+Peptide identification engine: MS-GF+
+
+
+Enzyme: Trypsin/P
+Info: using 'full' as enzyme specificity (obtained from idXML) for digestion.
+
+
+Building trie ... done (0s)
+Compressing trie to BFS format ...
+
+
+ done (0s)
+
+
+Mapping 77781 peptides to ? (unknown number of) proteins.
+Searching with up to 3 ambiguous amino acid(s) and 0 mismatch(es)!
+
+
+Merge took: 0.01 s (wall), 0.08 s (CPU), 0.03 s (system), 0.05 s (user)
+Memory usage (Aho-Corasick): 226 MB (working set delta), 0 MB (peak working set delta)
+
+
+Aho-Corasick done:
+  found 218722 hits for 77781 of 77781 peptides.
+Peptide hits passing enzyme filter: 218722
+     ... rejected by enzyme filter: 52749
+
+
+-----------------------------------
+Peptide statistics
+
+  unmatched                : 0 (0 %)
+  target/decoy:
+    match to target DB only: 38626 (49 %)
+    match to decoy DB only : 38225 (49 %)
+    match to both          : 930 (1 %)
+
+  mapping to proteins:
+    no match (to 0 protein)         : 0
+    unique match (to 1 protein)     : 46285
+    non-unique match (to >1 protein): 31496
+
+
+-----------------------------------
+Protein statistics
+
+  total proteins searched: 2428216
+  matched proteins       : 24155 (24155 new)
+  matched target proteins: 12023 (49 %)
+  matched decoy proteins : 12132 (50 %)
+  orphaned proteins      : 0 (all removed)
+-----------------------------------
+
+
+MSGFPlusAdapter took 27:35 m (wall), 44.34 s (CPU), 5.55 s (system), 38.80 s (user); Peak Memory Usage: 3152 MB.
+
+
+MSGFPlusAdapter started. Processing ...
+
+Running MSGFPlus search...
+
+
+missedCleavages has a negative value. Assuming unlimited and setting it to 1000.
+
+
+Using prefix decoy string 'DECOY_'
+Info: using 'Trypsin/P' as enzyme (obtained from idXML) for digestion.
+Peptide identification engine: MS-GF+
+
+
+Enzyme: Trypsin/P
+Info: using 'full' as enzyme specificity (obtained from idXML) for digestion.
+
+
+Building trie ... done (0s)
+Compressing trie to BFS format ...
+
+
+ done (0s)
+
+
+Mapping 75698 peptides to ? (unknown number of) proteins.
+Searching with up to 3 ambiguous amino acid(s) and 0 mismatch(es)!
+
+
+Merge took: 0.01 s (wall), 0.03 s (CPU), 0.00 s (system), 0.03 s (user)
+Memory usage (Aho-Corasick): 203 MB (working set delta), 0 MB (peak working set delta)
+
+
+Aho-Corasick done:
+  found 224828 hits for 75698 of 75698 peptides.
+Peptide hits passing enzyme filter: 224828
+     ... rejected by enzyme filter: 54015
+
+
+-----------------------------------
+Peptide statistics
+
+  unmatched                : 0 (0 %)
+  target/decoy:
+    match to target DB only: 37075 (48 %)
+    match to decoy DB only : 37627 (49 %)
+    match to both          : 996 (1 %)
+
+  mapping to proteins:
+    no match (to 0 protein)         : 0
+    unique match (to 1 protein)     : 44292
+    non-unique match (to >1 protein): 31406
+
+
+-----------------------------------
+Protein statistics
+
+  total proteins searched: 2428216
+  matched proteins       : 33992 (33992 new)
+  matched target proteins: 17491 (51 %)
+  matched decoy proteins : 16501 (48 %)
+  orphaned proteins      : 0 (all removed)
+-----------------------------------
+
+
+MSGFPlusAdapter took 27:23 m (wall), 46.45 s (CPU), 5.47 s (system), 40.98 s (user); Peak Memory Usage: 3113 MB.
+
+
+MSGFPlusAdapter finished!
+
+Output file 'C:\Users\pwang\TOPPAS_out\011-MSGFPlusAdapter-out\JM_RCMP_Dep_basicRP-F13_A11_01_1110.idXML' written.
+
+Output file 'C:\Users\pwang\TOPPAS_out\011-MSGFPlusAdapter-out\JM_RCMP_Dep_ingelF9_G8_01_1069.idXML' written.
+
+Output file 'C:\Users\pwang\TOPPAS_out\011-MSGFPlusAdapter-out\JM_RCMP_ND_basicRP-F1_E6_01_1019.idXML' written.
+
+Output file 'C:\Users\pwang\TOPPAS_out\011-MSGFPlusAdapter-out\JM_RCMP_ND_ingelF2_C11_01_985.idXML' written.
+
+IDFilter started. Processing ...
+
+Filtering by protein whitelisting (FASTA input)...
+
+
+Filtering by peptide score...
+
+
+Filtering by protein score...
+
+
+Filtering by protein group score...
+
+
+Removing unreferenced protein hits...
+
+
+Before filtering:
+1 identification runs with 20665 proteins,
+65841 spectra identified with 73280 spectrum matches.
+After filtering:
+1 identification runs with 0 proteins,
+65841 spectra identified with 73280 spectrum matches.
+
+
+IDFilter took 7.29 s (wall), 6.67 s (CPU), 0.39 s (system), 6.28 s (user); Peak Memory Usage: 224 MB.
+
+
+IDFilter started. Processing ...
+
+Filtering by protein whitelisting (FASTA input)...
+
+
+Filtering by peptide score...
+
+
+Filtering by protein score...
+
+
+Filtering by protein group score...
+Removing unreferenced protein hits...
+
+
+Before filtering:
+1 identification runs with 32285 proteins,
+71459 spectra identified with 81307 spectrum matches.
+After filtering:
+1 identification runs with 0 proteins,
+71459 spectra identified with 81307 spectrum matches.
+
+
+IDFilter took 8.12 s (wall), 7.88 s (CPU), 0.36 s (system), 7.52 s (user); Peak Memory Usage: 258 MB.
+
+
+IDFilter started. Processing ...
+
+Filtering by protein whitelisting (FASTA input)...
+
+
+Filtering by peptide score...
+
+
+Filtering by protein score...
+
+
+Filtering by protein group score...
+Removing unreferenced protein hits...
+
+
+Before filtering:
+1 identification runs with 24155 proteins,
+69410 spectra identified with 77781 spectrum matches.
+After filtering:
+1 identification runs with 0 proteins,
+69410 spectra identified with 77781 spectrum matches.
+
+
+IDFilter took 7.34 s (wall), 7.11 s (CPU), 0.27 s (system), 6.84 s (user); Peak Memory Usage: 239 MB.
+
+
+IDFilter started. Processing ...
+
+Filtering by protein whitelisting (FASTA input)...
+
+
+Filtering by peptide score...
+
+
+Filtering by protein score...
+
+
+Filtering by protein group score...
+Removing unreferenced protein hits...
+
+
+Before filtering:
+1 identification runs with 33992 proteins,
+67692 spectra identified with 75698 spectrum matches.
+After filtering:
+1 identification runs with 0 proteins,
+67692 spectra identified with 75698 spectrum matches.
+
+
+IDFilter took 7.16 s (wall), 7.02 s (CPU), 0.28 s (system), 6.73 s (user); Peak Memory Usage: 239 MB.
+
+
+IDFilter finished!
+
+PeptideIndexer started. Processing ...
+
+Automatically deriving DB from meta data ...DB: C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\004_DecoyDatabase\out\Serpant_Toxin.fasta
+
+
+Using prefix decoy string 'DECOY_'
+Info: using 'Trypsin/P' as enzyme (obtained from idXML) for digestion.
+Peptide identification engine: MS-GF+
+Enzyme: Trypsin/P
+Info: using 'full' as enzyme specificity (obtained from idXML) for digestion.
+
+
+Building trie ... done (0s)
+Compressing trie to BFS format ...
+
+
+ done (0s)
+Mapping 73280 peptides to ? (unknown number of) proteins.
+Searching with up to 3 ambiguous amino acid(s) and 0 mismatch(es)!
+
+
+Merge took: 0.01 s (wall), 0.00 s (CPU), 0.00 s (system), 0.00 s (user)
+Memory usage (Aho-Corasick): 201 MB (working set delta), 207 MB (peak working set delta)
+
+
+Aho-Corasick done:
+  found 210927 hits for 73280 of 73280 peptides.
+Peptide hits passing enzyme filter: 210927
+     ... rejected by enzyme filter: 50171
+
+
+-----------------------------------
+Peptide statistics
+
+  unmatched                : 0 (0 %)
+  target/decoy:
+    match to target DB only: 36093 (49 %)
+    match to decoy DB only : 35960 (49 %)
+    match to both          : 1227 (1 %)
+
+  mapping to proteins:
+    no match (to 0 protein)         : 0
+    unique match (to 1 protein)     : 43551
+    non-unique match (to >1 protein): 29729
+
+
+-----------------------------------
+Protein statistics
+
+  total proteins searched: 2428216
+  matched proteins       : 20665 (20665 new)
+  matched target proteins: 10113 (48 %)
+  matched decoy proteins : 10552 (51 %)
+  orphaned proteins      : 0 (all removed)
+-----------------------------------
+
+
+PeptideIndexer took 15.70 s (wall), 15.47 s (CPU), 2.09 s (system), 13.38 s (user); Peak Memory Usage: 683 MB.
+
+
+PeptideIndexer started. Processing ...
+
+Automatically deriving DB from meta data ...DB: C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\004_DecoyDatabase\out\Serpant_Toxin.fasta
+
+
+Using prefix decoy string 'DECOY_'
+Info: using 'Trypsin/P' as enzyme (obtained from idXML) for digestion.
+Peptide identification engine: MS-GF+
+Enzyme: Trypsin/P
+Info: using 'full' as enzyme specificity (obtained from idXML) for digestion.
+
+
+Building trie ... done (0s)
+Compressing trie to BFS format ...
+
+
+ done (0s)
+Mapping 81307 peptides to ? (unknown number of) proteins.
+Searching with up to 3 ambiguous amino acid(s) and 0 mismatch(es)!
+
+
+Merge took: 0.01 s (wall), 0.02 s (CPU), 0.00 s (system), 0.02 s (user)
+Memory usage (Aho-Corasick): 241 MB (working set delta), 230 MB (peak working set delta)
+
+
+Aho-Corasick done:
+  found 218783 hits for 81307 of 81307 peptides.
+Peptide hits passing enzyme filter: 218783
+     ... rejected by enzyme filter: 27453
+
+
+-----------------------------------
+Peptide statistics
+
+  unmatched                : 0 (0 %)
+  target/decoy:
+    match to target DB only: 40055 (49 %)
+    match to decoy DB only : 40536 (49 %)
+    match to both          : 716 (0 %)
+
+  mapping to proteins:
+    no match (to 0 protein)         : 0
+    unique match (to 1 protein)     : 49209
+    non-unique match (to >1 protein): 32098
+
+
+-----------------------------------
+Protein statistics
+
+  total proteins searched: 2428216
+  matched proteins       : 32285 (32285 new)
+  matched target proteins: 16179 (50 %)
+  matched decoy proteins : 16106 (49 %)
+  orphaned proteins      : 0 (all removed)
+-----------------------------------
+
+
+PeptideIndexer took 17.03 s (wall), 16.55 s (CPU), 1.95 s (system), 14.59 s (user); Peak Memory Usage: 731 MB.
+
+
+PeptideIndexer started. Processing ...
+
+Automatically deriving DB from meta data ...DB: C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\004_DecoyDatabase\out\Serpant_Toxin.fasta
+
+
+Using prefix decoy string 'DECOY_'
+Info: using 'Trypsin/P' as enzyme (obtained from idXML) for digestion.
+Peptide identification engine: MS-GF+
+Enzyme: Trypsin/P
+Info: using 'full' as enzyme specificity (obtained from idXML) for digestion.
+
+
+Building trie ... done (0s)
+Compressing trie to BFS format ...
+
+
+ done (0s)
+Mapping 77781 peptides to ? (unknown number of) proteins.
+Searching with up to 3 ambiguous amino acid(s) and 0 mismatch(es)!
+
+
+Merge took: 0.01 s (wall), 0.00 s (CPU), 0.00 s (system), 0.00 s (user)
+Memory usage (Aho-Corasick): 220 MB (working set delta), 213 MB (peak working set delta)
+
+
+Aho-Corasick done:
+  found 218722 hits for 77781 of 77781 peptides.
+Peptide hits passing enzyme filter: 218722
+     ... rejected by enzyme filter: 52749
+
+
+-----------------------------------
+Peptide statistics
+
+  unmatched                : 0 (0 %)
+  target/decoy:
+    match to target DB only: 38626 (49 %)
+    match to decoy DB only : 38225 (49 %)
+    match to both          : 930 (1 %)
+
+  mapping to proteins:
+    no match (to 0 protein)         : 0
+    unique match (to 1 protein)     : 46285
+    non-unique match (to >1 protein): 31496
+
+
+-----------------------------------
+Protein statistics
+
+  total proteins searched: 2428216
+  matched proteins       : 24155 (24155 new)
+  matched target proteins: 12023 (49 %)
+  matched decoy proteins : 12132 (50 %)
+  orphaned proteins      : 0 (all removed)
+-----------------------------------
+
+
+PeptideIndexer took 16.12 s (wall), 15.98 s (CPU), 2.08 s (system), 13.91 s (user); Peak Memory Usage: 701 MB.
+
+
+PeptideIndexer started. Processing ...
+
+Automatically deriving DB from meta data ...DB: C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\004_DecoyDatabase\out\Serpant_Toxin.fasta
+
+
+Using prefix decoy string 'DECOY_'
+Info: using 'Trypsin/P' as enzyme (obtained from idXML) for digestion.
+Peptide identification engine: MS-GF+
+Enzyme: Trypsin/P
+Info: using 'full' as enzyme specificity (obtained from idXML) for digestion.
+
+
+Building trie ... done (0s)
+Compressing trie to BFS format ...
+
+
+ done (0s)
+Mapping 75698 peptides to ? (unknown number of) proteins.
+Searching with up to 3 ambiguous amino acid(s) and 0 mismatch(es)!
+
+
+Merge took: 0.01 s (wall), 0.02 s (CPU), 0.00 s (system), 0.02 s (user)
+Memory usage (Aho-Corasick): 193 MB (working set delta), 192 MB (peak working set delta)
+
+
+Aho-Corasick done:
+  found 224828 hits for 75698 of 75698 peptides.
+Peptide hits passing enzyme filter: 224828
+     ... rejected by enzyme filter: 54015
+
+
+-----------------------------------
+Peptide statistics
+
+  unmatched                : 0 (0 %)
+  target/decoy:
+    match to target DB only: 37075 (48 %)
+    match to decoy DB only : 37627 (49 %)
+    match to both          : 996 (1 %)
+
+  mapping to proteins:
+    no match (to 0 protein)         : 0
+    unique match (to 1 protein)     : 44292
+    non-unique match (to >1 protein): 31406
+
+
+-----------------------------------
+Protein statistics
+
+  total proteins searched: 2428216
+  matched proteins       : 33992 (33992 new)
+  matched target proteins: 17491 (51 %)
+  matched decoy proteins : 16501 (48 %)
+  orphaned proteins      : 0 (all removed)
+-----------------------------------
+
+
+PeptideIndexer took 16.05 s (wall), 15.72 s (CPU), 1.91 s (system), 13.81 s (user); Peak Memory Usage: 672 MB.
+
+
+PeptideIndexer finished!
+
+
+Enqueue: "C:\Users\pwang\OneDrive\Desktop\DEV\bin\Release/FalseDiscoveryRate" "-in" "C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\008_PeptideIndexer\out\JM_RCMP_Dep_basicRP-F13_A11_01_1110.idXML" "-out" "C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\out\JM_RCMP_Dep_basicRP-F13_A11_01_1110.idXML" "-ini" "C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\FalseDiscoveryRate.ini"
+
+
+FalseDiscoveryRate started. Processing ...
+
+TOPPBase.cpp(1630): Value of string option 'no_progress': 1
+
+
+TOPPBase.cpp(1640):  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2024-07-28 15:43:08 FalseDiscoveryRate:1: Parameters passed to FalseDiscoveryRate
+"no_qvalues" -> "false" (If 'true' strict FDRs will be calculated instead of q-values (the default))
+"use_all_hits" -> "false" (If 'true' not only the first hit, but all are used (peptides only))
+"split_charge_variants" -> "false" (If 'true' charge variants are treated separately (for peptides of combined target/decoy searches only).)
+"treat_runs_separately" -> "false" (If 'true' different search runs are treated separately (for peptides of combined target/decoy searches only).)
+"add_decoy_peptides" -> "true" (If 'true' decoy peptides will be written to output file, too. The q-value is set to the closest target score.)
+"add_decoy_proteins" -> "true" (If 'true' decoy proteins will be written to output file, too. The q-value is set to the closest target score.)
+"conservative" -> "true" (If 'true' (D+1)/T instead of (D+1)/(T+D) is used as a formula.)
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+TOPPBase.cpp(1630): Value of string option 'in': C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\008_PeptideIndexer\out\JM_RCMP_Dep_basicRP-F13_A11_01_1110.idXML
+TOPPBase.cpp(1630): Checking input file 'C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\008_PeptideIndexer\out\JM_RCMP_Dep_basicRP-F13_A11_01_1110.idXML'
+TOPPBase.cpp(1630): Value of string option 'out': C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\out\JM_RCMP_Dep_basicRP-F13_A11_01_1110.idXML
+TOPPBase.cpp(1630): Checking output file 'C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\out\JM_RCMP_Dep_basicRP-F13_A11_01_1110.idXML'
+
+
+TOPPBase.cpp(1630): Value of double option 'FDR:protein': 1.0
+TOPPBase.cpp(1630): Value of double option 'FDR:PSM': 0.05
+
+
+TOPPBase.cpp(1630): Value of string option 'protein': false
+TOPPBase.cpp(1630): Value of string option 'peptide': false
+TOPPBase.cpp(1630): Value of string option 'PSM': true
+
+
+FDR control: Filtering PSMs...
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_proteins_without_psms': true
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_psms_without_proteins': true
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_spectra_without_psms': true
+
+
+Before filtering:
+1 protein identification(s) with 20665 protein hit(s),
+65841 peptide identification(s) with 73280 pep_ids hit(s).
+After filtering:
+1 protein identification(s) with 4793 protein hit(s),
+8 peptide identification(s) with 8 pep_ids hit(s).
+Writing filtered output...
+
+
+FalseDiscoveryRate took 5.43 s (wall), 5.33 s (CPU), 0.13 s (system), 5.20 s (user); Peak Memory Usage: 220 MB.
+
+
+FalseDiscoveryRate started. Processing ...
+
+TOPPBase.cpp(1630): Value of string option 'no_progress': 1
+TOPPBase.cpp(1640):  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2024-07-28 15:43:13 FalseDiscoveryRate:1: Parameters passed to FalseDiscoveryRate
+"no_qvalues" -> "false" (If 'true' strict FDRs will be calculated instead of q-values (the default))
+"use_all_hits" -> "false" (If 'true' not only the first hit, but all are used (peptides only))
+"split_charge_variants" -> "false" (If 'true' charge variants are treated separately (for peptides of combined target/decoy searches only).)
+"treat_runs_separately" -> "false" (If 'true' different search runs are treated separately (for peptides of combined target/decoy searches only).)
+"add_decoy_peptides" -> "true" (If 'true' decoy peptides will be written to output file, too. The q-value is set to the closest target score.)
+"add_decoy_proteins" -> "true" (If 'true' decoy proteins will be written to output file, too. The q-value is set to the closest target score.)
+"conservative" -> "true" (If 'true' (D+1)/T instead of (D+1)/(T+D) is used as a formula.)
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+TOPPBase.cpp(1630): Value of string option 'in': C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\008_PeptideIndexer\out\JM_RCMP_Dep_ingelF9_G8_01_1069.idXML
+TOPPBase.cpp(1630): Checking input file 'C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\008_PeptideIndexer\out\JM_RCMP_Dep_ingelF9_G8_01_1069.idXML'
+
+
+TOPPBase.cpp(1630): Value of string option 'out': C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\out\JM_RCMP_Dep_ingelF9_G8_01_1069.idXML
+TOPPBase.cpp(1630): Checking output file 'C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\out\JM_RCMP_Dep_ingelF9_G8_01_1069.idXML'
+TOPPBase.cpp(1630): Value of double option 'FDR:protein': 1.0
+TOPPBase.cpp(1630): Value of double option 'FDR:PSM': 0.05
+
+
+TOPPBase.cpp(1630): Value of string option 'protein': false
+TOPPBase.cpp(1630): Value of string option 'peptide': false
+TOPPBase.cpp(1630): Value of string option 'PSM': true
+
+
+FDR control: Filtering PSMs...
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_proteins_without_psms': true
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_psms_without_proteins': true
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_spectra_without_psms': true
+
+
+Before filtering:
+1 protein identification(s) with 32285 protein hit(s),
+71459 peptide identification(s) with 81307 pep_ids hit(s).
+After filtering:
+1 protein identification(s) with 10806 protein hit(s),
+37 peptide identification(s) with 37 pep_ids hit(s).
+Writing filtered output...
+
+
+FalseDiscoveryRate took 6.07 s (wall), 6.02 s (CPU), 0.16 s (system), 5.86 s (user); Peak Memory Usage: 253 MB.
+
+
+FalseDiscoveryRate started. Processing ...
+
+TOPPBase.cpp(1630): Value of string option 'no_progress': 1
+
+
+TOPPBase.cpp(1640):  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2024-07-28 15:43:19 FalseDiscoveryRate:1: Parameters passed to FalseDiscoveryRate
+"no_qvalues" -> "false" (If 'true' strict FDRs will be calculated instead of q-values (the default))
+"use_all_hits" -> "false" (If 'true' not only the first hit, but all are used (peptides only))
+"split_charge_variants" -> "false" (If 'true' charge variants are treated separately (for peptides of combined target/decoy searches only).)
+"treat_runs_separately" -> "false" (If 'true' different search runs are treated separately (for peptides of combined target/decoy searches only).)
+"add_decoy_peptides" -> "true" (If 'true' decoy peptides will be written to output file, too. The q-value is set to the closest target score.)
+"add_decoy_proteins" -> "true" (If 'true' decoy proteins will be written to output file, too. The q-value is set to the closest target score.)
+"conservative" -> "true" (If 'true' (D+1)/T instead of (D+1)/(T+D) is used as a formula.)
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+TOPPBase.cpp(1630): Value of string option 'in': C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\008_PeptideIndexer\out\JM_RCMP_ND_basicRP-F1_E6_01_1019.idXML
+TOPPBase.cpp(1630): Checking input file 'C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\008_PeptideIndexer\out\JM_RCMP_ND_basicRP-F1_E6_01_1019.idXML'
+TOPPBase.cpp(1630): Value of string option 'out': C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\out\JM_RCMP_ND_basicRP-F1_E6_01_1019.idXML
+TOPPBase.cpp(1630): Checking output file 'C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\out\JM_RCMP_ND_basicRP-F1_E6_01_1019.idXML'
+
+
+TOPPBase.cpp(1630): Value of double option 'FDR:protein': 1.0
+TOPPBase.cpp(1630): Value of double option 'FDR:PSM': 0.05
+
+
+TOPPBase.cpp(1630): Value of string option 'protein': false
+TOPPBase.cpp(1630): Value of string option 'peptide': false
+TOPPBase.cpp(1630): Value of string option 'PSM': true
+
+
+FDR control: Filtering PSMs...
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_proteins_without_psms': true
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_psms_without_proteins': true
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_spectra_without_psms': true
+
+
+Before filtering:
+1 protein identification(s) with 24155 protein hit(s),
+69410 peptide identification(s) with 77781 pep_ids hit(s).
+After filtering:
+1 protein identification(s) with 6643 protein hit(s),
+25 peptide identification(s) with 25 pep_ids hit(s).
+Writing filtered output...
+
+
+FalseDiscoveryRate took 5.65 s (wall), 5.61 s (CPU), 0.25 s (system), 5.36 s (user); Peak Memory Usage: 235 MB.
+
+
+FalseDiscoveryRate started. Processing ...
+
+TOPPBase.cpp(1630): Value of string option 'no_progress': 1
+
+
+TOPPBase.cpp(1640):  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2024-07-28 15:43:25 FalseDiscoveryRate:1: Parameters passed to FalseDiscoveryRate
+"no_qvalues" -> "false" (If 'true' strict FDRs will be calculated instead of q-values (the default))
+"use_all_hits" -> "false" (If 'true' not only the first hit, but all are used (peptides only))
+"split_charge_variants" -> "false" (If 'true' charge variants are treated separately (for peptides of combined target/decoy searches only).)
+"treat_runs_separately" -> "false" (If 'true' different search runs are treated separately (for peptides of combined target/decoy searches only).)
+"add_decoy_peptides" -> "true" (If 'true' decoy peptides will be written to output file, too. The q-value is set to the closest target score.)
+"add_decoy_proteins" -> "true" (If 'true' decoy proteins will be written to output file, too. The q-value is set to the closest target score.)
+"conservative" -> "true" (If 'true' (D+1)/T instead of (D+1)/(T+D) is used as a formula.)
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+TOPPBase.cpp(1630): Value of string option 'in': C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\008_PeptideIndexer\out\JM_RCMP_ND_ingelF2_C11_01_985.idXML
+TOPPBase.cpp(1630): Checking input file 'C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\008_PeptideIndexer\out\JM_RCMP_ND_ingelF2_C11_01_985.idXML'
+TOPPBase.cpp(1630): Value of string option 'out': C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\out\JM_RCMP_ND_ingelF2_C11_01_985.idXML
+TOPPBase.cpp(1630): Checking output file 'C:\Users\pwang\AppData\Local\Temp\20240728_132636_23800_1\ID_Pipeline\009_FalseDiscoveryRate\out\JM_RCMP_ND_ingelF2_C11_01_985.idXML'
+TOPPBase.cpp(1630): Value of double option 'FDR:protein': 1.0
+TOPPBase.cpp(1630): Value of double option 'FDR:PSM': 0.05
+
+
+TOPPBase.cpp(1630): Value of string option 'protein': false
+TOPPBase.cpp(1630): Value of string option 'peptide': false
+TOPPBase.cpp(1630): Value of string option 'PSM': true
+
+
+FDR control: Filtering PSMs...
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_proteins_without_psms': true
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_psms_without_proteins': true
+
+
+TOPPBase.cpp(1630): Value of string option 'FDR:cleanup:remove_spectra_without_psms': true
+
+
+Before filtering:
+1 protein identification(s) with 33992 protein hit(s),
+67692 peptide identification(s) with 75698 pep_ids hit(s).
+After filtering:
+1 protein identification(s) with 12120 protein hit(s),
+21 peptide identification(s) with 21 pep_ids hit(s).
+Writing filtered output...
+
+
+FalseDiscoveryRate took 5.78 s (wall), 5.77 s (CPU), 0.13 s (system), 5.64 s (user); Peak Memory Usage: 235 MB.
+
+
+FalseDiscoveryRate finished!
+
+Output file 'C:\Users\pwang\TOPPAS_out\010-FalseDiscoveryRate-out\JM_RCMP_Dep_basicRP-F13_A11_01_1110.idXML' written.
+
+Output file 'C:\Users\pwang\TOPPAS_out\010-FalseDiscoveryRate-out\JM_RCMP_Dep_ingelF9_G8_01_1069.idXML' written.
+
+Output file 'C:\Users\pwang\TOPPAS_out\010-FalseDiscoveryRate-out\JM_RCMP_ND_basicRP-F1_E6_01_1019.idXML' written.
+
+Output file 'C:\Users\pwang\TOPPAS_out\010-FalseDiscoveryRate-out\JM_RCMP_ND_ingelF2_C11_01_985.idXML' written.
